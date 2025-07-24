@@ -5,6 +5,10 @@
   <img src="https://avatars.githubusercontent.com/u/NguyenDung0101?v=4" width="130" style="border-radius:50%;border:4px solid #1E90FF;margin-top:-60px;" alt="Avatar"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=800&color=1E90FF&center=true&vCenter=true&width=650&lines=Chào+mừng+bạn+đến+với+thế+giới+của+mình!;Mình+là+Nguyễn+Tuấn+Dũng;Fullstack+Developer+%26+Game+Dev+Enthusiast;Khám+phá+các+dự+án+sáng+tạo+của+mình!" alt="Typewriter Effect" />
+</p>
+
 <!-- Animated Typewriter Introduction -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=700&lines=Chào+mừng+bạn+đến+với+thế+giới+của+mình!;Mình+là+Nguyễn+Tuấn+Dũng;Fullstack+Developer+%7C+Game+Dev+Enthusiast;Khám+phá+các+dự+án+sáng+tạo+của+mình!" alt="Typewriter Effect" />
