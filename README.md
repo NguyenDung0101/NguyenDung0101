@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=180&section=header&text=Nguyễn%20Tuấn%20Dũng%20🌟&fontSize=45&fontAlign=50&fontColor=FFFFFF" alt="Header" />
   <br>
-  <img src="https://avatars.githubusercontent.com/u/NguyenDung0101?v=4" width="130" style="border-radius:50%;border:4px solid #1E90FF;margin-top:-60px;" alt="Avatar"/>
 </p>
 
 <!-- Animated Typewriter Introduction -->
