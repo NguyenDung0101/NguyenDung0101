@@ -4,10 +4,14 @@
   <br>
 </p>
 
+
+
 <!-- Animated Typewriter Introduction -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=700&lines=Chào+mừng+bạn+đến+với+thế+giới+của+mình!;Mình+là+Nguyễn+Tuấn+Dũng;Fullstack+Developer+%7C+Game+Dev+Enthusiast;Khám+phá+các+dự+án+sáng+tạo+của+mình!" alt="Typewriter Effect" />
 </p>
+
+
 
 <!-- Quick Info & Contact -->
 <p align="center" style="font-size: 1.2em;">
