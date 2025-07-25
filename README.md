@@ -12,7 +12,7 @@
 <!-- Quick Info & Contact -->
 <p align="center" style="font-size: 1.2em;">
   <b>🎮 Game Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🌐 Full-Stack Developer</b> <br>
-  <img src="https://img.shields.io/badge/Hanoi-Vietnam-1E90FF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /> 
+  <img src="https://img.shields.io/badge/SaiGon-Vietnam-1E90FF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /> 
   <a href="mailto:dnguyentuan03@gmail.com">
     <img src="https://img.shields.io/badge/Email-dnguyentuan03@gmail.com-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
